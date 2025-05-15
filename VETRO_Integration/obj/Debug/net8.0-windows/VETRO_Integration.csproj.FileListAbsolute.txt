@@ -1,0 +1,16 @@
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\bin\Debug\net8.0-windows\VETRO_Integration.deps.json
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\bin\Debug\net8.0-windows\VETRO_Integration.dll
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\bin\Debug\net8.0-windows\VETRO_Integration.pdb
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.csproj.AssemblyReference.cache
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.AssemblyInfoInputs.cache
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.AssemblyInfo.cs
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.csproj.CoreCompileInputs.cache
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.dll
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\refint\VETRO_Integration.dll
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.pdb
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\ref\VETRO_Integration.dll
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration_MarkupCompile.cache
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_Integration.g.resources
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_IntegrationWindow.baml
+C:\Users\JessicaCserepes\source\repos\VETRO_Integration\obj\Debug\net8.0-windows\VETRO_IntegrationWindow.g.cs

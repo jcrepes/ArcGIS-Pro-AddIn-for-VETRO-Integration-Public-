@@ -1,0 +1,49 @@
+﻿<ArcGIS defaultAssembly="VETRO_Integration.dll" defaultNamespace="VETRO_Integration" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{adc63c61-cd09-4209-9692-d7cc23fe3809}" version="1.0" desktopVersion="3.3.52636" product="ArcGISPro">
+    <Name>VETRO_Integration</Name>
+    <Description>VETRO_Integration description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>JessicaCserepes</Author>
+    <Company>Acme</Company>
+    <Date>8/19/2024 12:01:05 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="VETRO_Integration_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="VETRO_Integration_Tab1" caption="New Tab">
+          <group refID="VETRO_Integration_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="VETRO_Integration_Group1" caption="VETRO Integration" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <!--comboBox refID="VETRO_Integration_ChooseProjectComboBox" />
+          <comboBox refID="VETRO_Integration_ChoosePlanComboBox" /-->
+          <button refID="VETRO_IntegrationWindow_Button" size="large" />
+          <!--button refID="VETRO_Integration_PushEditsToVETROButton" size="large" /-->
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <!--comboBox id="VETRO_Integration_ChooseProjectComboBox" caption="Choose VETRO Project:" className="ChooseProjectComboBox" itemWidth="140" extendedCaption="Extended Caption" isEditable="false" isReadOnly="true" resizable="true">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </comboBox>
+        <comboBox id="VETRO_Integration_ChoosePlanComboBox" caption="Choose VETRO Plan:" className="ChoosePlanComboBox" itemWidth="140" extendedCaption="Extended Caption" isEditable="false" isReadOnly="true" resizable="true">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </comboBox>
+        <button id="VETRO_Integration_PushEditsToVETROButton" caption="Push Edits To VETRO" className="PushEditsToVETROButton" loadOnClick="true" smallImage="GenericButtonBlue16" largeImage="GenericButtonBlue32">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button-->
+        <button id="VETRO_IntegrationWindow_Button" caption="Push Layer To VETRO" className="ShowVETRO_IntegrationWindow" loadOnClick="true" smallImage="GenericButtonPurple16" largeImage="GenericButtonPurple32">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>
